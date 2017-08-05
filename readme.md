@@ -1,4 +1,4 @@
-# Angular quz
+# Angular quiz
 Angular quiz
 # Overview
 How to use 
